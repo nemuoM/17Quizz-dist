@@ -1,0 +1,34 @@
+{
+  "name": "17Quizz (AK2R)",
+  "identifier": "com.moumenn.17quizz.altsource",
+  "apps": [
+    {
+      "name": "17Quizz",
+      "bundleIdentifier": "com.moumenn.17quizz",
+      "developerName": "AK2R",
+      "subtitle": "Duels de quiz en temps reel",
+      "localizedDescription": "17Quizz — duels de quiz en temps reel.\n\nBuild sideload connecte au serveur de production. Connexion via Google (Apple Sign-In et notifications push sont desactives sur un build re-signe avec un compte Apple gratuit).",
+      "iconURL": "https://raw.githubusercontent.com/nemuoM/17Quizz-dist/main/icon.png",
+      "tintColor": "FF6B6B",
+      "category": "games",
+      "version": "0.1.0",
+      "versionDate": "2026-06-02",
+      "versionDescription": "Build 1",
+      "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v0.1.0-1/17Quizz.ipa",
+      "size": 16669385,
+      "minOSVersion": "15.1",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-06-02",
+          "localizedDescription": "Build 1",
+          "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v0.1.0-1/17Quizz.ipa",
+          "size": 16669385,
+          "minOSVersion": "15.1"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
