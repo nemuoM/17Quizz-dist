@@ -26,15 +26,6 @@
           "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v0.1.0-1/17Quizz.ipa",
           "size": 16669385,
           "minOSVersion": "15.1"
-        },
-        {
-          "version": "0.1.0",
-          "buildVersion": "1",
-          "date": "2026-06-02",
-          "localizedDescription": "Build 1",
-          "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v0.1.0-1/17Quizz.ipa",
-          "size": 16669385,
-          "minOSVersion": "15.1"
         }
       ]
     }
