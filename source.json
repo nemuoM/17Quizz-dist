@@ -11,13 +11,22 @@
       "iconURL": "https://raw.githubusercontent.com/nemuoM/17Quizz-dist/main/icon.png",
       "tintColor": "FF6B6B",
       "category": "games",
-      "version": "1.1.1",
-      "versionDate": "2026-06-04",
-      "versionDescription": "Build 4",
-      "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v1.1.1-4/17Quizz.ipa",
-      "size": 16391333,
+      "version": "1.2.0",
+      "versionDate": "2026-06-05",
+      "versionDescription": "Build 5",
+      "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v1.2.0-5/17Quizz.ipa",
+      "size": 16394004,
       "minOSVersion": "15.1",
       "versions": [
+        {
+          "version": "1.2.0",
+          "buildVersion": "5",
+          "date": "2026-06-05",
+          "localizedDescription": "Build 5",
+          "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v1.2.0-5/17Quizz.ipa",
+          "size": 16394004,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "1.1.1",
           "buildVersion": "4",
