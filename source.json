@@ -13,11 +13,20 @@
       "category": "games",
       "version": "1.8.11",
       "versionDate": "2026-06-13",
-      "versionDescription": "Build 27",
-      "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v1.8.11-27/17Quizz.ipa",
-      "size": 16018843,
+      "versionDescription": "Build 28",
+      "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v1.8.11-28/17Quizz.ipa",
+      "size": 16024833,
       "minOSVersion": "15.1",
       "versions": [
+        {
+          "version": "1.8.11",
+          "buildVersion": "28",
+          "date": "2026-06-13",
+          "localizedDescription": "Build 28",
+          "downloadURL": "https://github.com/nemuoM/17Quizz-dist/releases/download/app-v1.8.11-28/17Quizz.ipa",
+          "size": 16024833,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "1.8.11",
           "buildVersion": "27",
